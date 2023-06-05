@@ -112,6 +112,7 @@ contract Voting {
 
 ```
 
+
 **6. Deploy Voting Smart Contract to Ethereum Rinkeby testnetwork using `["Tea","Coffee"]` for `_options` input variable**
 
 ![DeployVotingContract](DeployVotingContract.png)
